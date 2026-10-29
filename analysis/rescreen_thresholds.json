@@ -1,0 +1,9 @@
+{
+ "thresholds_z": {
+  "readerv2": 2.387,
+  "dnative": 1.796,
+  "readerv3": 2.684
+ },
+ "windings": 117,
+ "rule": "blind-side 99.9th percentile of 4 mm window z-means"
+}

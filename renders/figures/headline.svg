@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" width="960" height="420" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="960" height="420" fill="#fcfcfb"/>
+<text x="20.0" y="28.0" font-size="15" fill="#0b0b0b" text-anchor="start" font-weight="600">Windings flagged, front vs back of the sheet</text>
+<line x1="70" x2="410" y1="330.0" y2="330.0" stroke="#e4e3df" stroke-width="1"/>
+<text x="62.0" y="334.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal">0</text>
+<line x1="70" x2="410" y1="267.5" y2="267.5" stroke="#e4e3df" stroke-width="1"/>
+<text x="62.0" y="271.5" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal">30</text>
+<line x1="70" x2="410" y1="205.0" y2="205.0" stroke="#e4e3df" stroke-width="1"/>
+<text x="62.0" y="209.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal">60</text>
+<line x1="70" x2="410" y1="142.5" y2="142.5" stroke="#e4e3df" stroke-width="1"/>
+<text x="62.0" y="146.5" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal">90</text>
+<line x1="70" x2="410" y1="80.0" y2="80.0" stroke="#e4e3df" stroke-width="1"/>
+<text x="62.0" y="84.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal">120</text>
+<path d="M100,330 V102.8 Q100,98.8 104,98.8 H150 Q154,98.8 154,102.8 V330 Z" fill="#2a78d6"/>
+<text x="127.0" y="92.8" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="600">111</text>
+<text x="127.0" y="346.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">front</text>
+<path d="M162,330 V117.3 Q162,113.3 166,113.3 H212 Q216,113.3 216,117.3 V330 Z" fill="#a8a69e"/>
+<text x="189.0" y="107.3" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="600">104</text>
+<text x="189.0" y="346.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">back</text>
+<text x="158.0" y="366.0" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="normal">343's thresholds</text>
+<path d="M270,330 V263.2 Q270,259.2 274,259.2 H320 Q324,259.2 324,263.2 V330 Z" fill="#2a78d6"/>
+<text x="297.0" y="253.2" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="600">34</text>
+<text x="297.0" y="346.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">front</text>
+<path d="M332,330 V261.1 Q332,257.1 336,257.1 H382 Q386,257.1 386,261.1 V330 Z" fill="#a8a69e"/>
+<text x="359.0" y="251.1" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="600">35</text>
+<text x="359.0" y="346.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">back</text>
+<text x="328.0" y="366.0" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="normal">Thresholds set from this</text>
+<text x="328.0" y="381.0" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="normal">scroll's back of the sheet</text>
+<text x="240.0" y="406.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">117 windings screened; the back has no writing</text>
+<text x="500.0" y="28.0" font-size="15" fill="#0b0b0b" text-anchor="start" font-weight="600">Plain papyrus scores higher here than on PHerc. 343</text>
+<line x1="560.0" x2="560.0" y1="70" y2="300" stroke="#e4e3df" stroke-width="1"/>
+<text x="560.0" y="318.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.20</text>
+<line x1="632.0" x2="632.0" y1="70" y2="300" stroke="#e4e3df" stroke-width="1"/>
+<text x="632.0" y="318.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.25</text>
+<line x1="704.0" x2="704.0" y1="70" y2="300" stroke="#e4e3df" stroke-width="1"/>
+<text x="704.0" y="318.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.30</text>
+<line x1="776.0" x2="776.0" y1="70" y2="300" stroke="#e4e3df" stroke-width="1"/>
+<text x="776.0" y="318.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.35</text>
+<line x1="848.0" x2="848.0" y1="70" y2="300" stroke="#e4e3df" stroke-width="1"/>
+<text x="848.0" y="318.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.40</text>
+<line x1="920.0" x2="920.0" y1="70" y2="300" stroke="#e4e3df" stroke-width="1"/>
+<text x="920.0" y="318.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.45</text>
+<text x="740.0" y="340.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="normal">Median ink-model score (0 to 1)</text>
+<text x="548.0" y="114.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-weight="normal">dense_native</text>
+<line x1="695.4" x2="881.8" y1="110" y2="110" stroke="#e4e3df" stroke-width="2"/>
+<circle cx="695.4" cy="110" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="751.5" cy="110" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="881.8" cy="110" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="751.5" y="96.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.333</text>
+<text x="881.8" y="96.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.423</text>
+<text x="548.0" y="189.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-weight="normal">reader-v2</text>
+<line x1="645.0" x2="791.6" y1="185" y2="185" stroke="#e4e3df" stroke-width="2"/>
+<circle cx="645.0" cy="185" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="678.1" cy="185" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="791.6" cy="185" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="678.1" y="171.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.282</text>
+<text x="791.6" y="171.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.361</text>
+<text x="548.0" y="264.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-weight="normal">reader-v3</text>
+<line x1="633.4" x2="848.0" y1="260" y2="260" stroke="#e4e3df" stroke-width="2"/>
+<circle cx="633.4" cy="260" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="656.5" cy="260" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="848.0" cy="260" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="656.5" y="246.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.267</text>
+<text x="848.0" y="246.0" font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal">0.400</text>
+<circle cx="510" cy="368" r="5" fill="#eb6834"/>
+<text x="520.0" y="372.0" font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="normal">PHerc. 343, plain papyrus</text>
+<circle cx="510" cy="385" r="5" fill="#2a78d6"/>
+<text x="520.0" y="389.0" font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="normal">PHerc0175A, plain papyrus</text>
+<circle cx="510" cy="402" r="5" fill="#1baf7a"/>
+<text x="520.0" y="406.0" font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="normal">PHerc. 343, letters (= flag threshold)</text>
+</svg>

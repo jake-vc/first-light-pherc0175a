@@ -1,0 +1,6 @@
+variant	workers	models	seconds	gpu_pct	throttled_share
+V4	4	readerv2 dnative readerv3	659	17	0.42
+V8	8	readerv2 dnative readerv3	853	13	0.35
+V12	12	readerv2 dnative readerv3	1096	10	0.28
+R1ram	4	readerv3	536	7	0.00
+R1vol	4	readerv3	531	7	0.00

@@ -1,0 +1,13 @@
+{
+ "models": [
+  "dnative",
+  "readerv2",
+  "readerv3"
+ ],
+ "letter_boxes_hit": 0,
+ "letter_boxes": 18,
+ "share_in_letters": 0.0,
+ "share_background": 0.0,
+ "ratio": null,
+ "PASS": false
+}
